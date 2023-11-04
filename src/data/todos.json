@@ -1,0 +1,17 @@
+[
+    {
+        "task": "Present React Developer Workflow lecture",
+        "description": "Present the lecture to the July 10th Eve Cohort",
+        "status": "Incomplete"
+    },
+    {
+        "task": "Complete Week 17 Exercise",
+        "description": "Finish the Fancy Buttons project",
+        "status": "Incomplete"
+    },
+    {
+        "task": "Go to the bank",
+        "description": "Apply for a credit card",
+        "status": "Complete"
+    }
+]

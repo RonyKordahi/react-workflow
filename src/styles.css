@@ -1,0 +1,17 @@
+.bottom {
+    border-bottom: red solid 3px;
+}
+
+.todo-box {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    width: 150px;
+}
